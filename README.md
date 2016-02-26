@@ -1,6 +1,7 @@
 # Spring-2016
-Class Projects for Spring 2016
-This the repositiory for student semester projects for CEE 6490 - Integrated River Basins Watershed Planning and Management class.
+CEE 6490 River Basin Management Class Projects for Spring 2016
+
+This repositiory contains student semester projects for CEE 6490 - Integrated River Basins Watershed Planning and Management class.
 Utah State University
 Logan, UT
 
