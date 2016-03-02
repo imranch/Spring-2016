@@ -7,7 +7,7 @@ Logan, UT
 
 Past year's projects can be found on the USU College of Engineering Wiki at http://www.engr.usu.edu/wiki/index.php/CEE_6490_River_Basin_Planning
 
-[File]: Prasanna_Ryan_PacifiCorp_BRP_ProgressReport
+[FileName]: Prasanna_Ryan_PacifiCorp_BRP_ProgressReport
 [Description]: A progress report for the term project in CEE6490, presented by group with Prasanna and Ryan as its member. 
 
 
